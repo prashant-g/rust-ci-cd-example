@@ -15,3 +15,13 @@ fn main() {
 //cargo fmt --check
 //cargo fmt 
 //cargo clippy --all-targets --all-features -- -D warnings
+
+//git init 
+//git status
+//git add .
+// git commit -m "Initial Rust project"  
+//git remote add origin rust-ci-cd-example
+//git branch -M main
+//git remote set-url origin https://github.com/prashant-g/rust-ci-cd-example.git
+//git remote -v
+//git push -u origin main
